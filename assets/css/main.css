@@ -1495,7 +1495,7 @@ button,
   background-color: transparent;
   border-radius: 0.375em;
   border: 0;
-  box-shadow: inset 0 0 0 2px #f56a6a;
+  box-shadow: inset 0 0 0 2px #ff0000;
   color: #f56a6a !important;
   cursor: pointer;
   display: inline-block;
@@ -1553,7 +1553,7 @@ button,
   input[type="button"].primary,
   button.primary,
   .button.primary {
-    background-color: #f56a6a;
+    background-color: #ff0000;
     box-shadow: none;
     color: #ffffff !important; }
     input[type="submit"].primary:hover,
